@@ -1,15 +1,17 @@
-Flappy Bird (2D)
+# Flappy Bird
 
 A Flappy Bird style game built with Unity 6 using the New Input System.
 The project includes clean and professional code, making it easy to understand and follow.
 
-Topics: Side Scrolling, Infinite Pipe Generation, Parallax Background
-Unity Version: Unity 6
+The game is designed to work consistently across different screen sizes and resolutions.
 
-Tutorial
+Topics: Side Scrolling, Infinite Pipe Generation, Responsive Screen Resize
+Unity Version: 6000.3.8f1
+
+# Tutorial
 
 Full step-by-step tutorial available on YouTube:
-[Add your YouTube link]
 
-# flappy-bird-unity
-Flappy Bird Unity tutorial assets (images, sounds, and fonts).
+# Discord
+
+Join our Discord to ask questions: https://discord.gg/dfjMzNXB9n
