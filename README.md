@@ -13,6 +13,10 @@ Unity Version: 6000.3.8f1
 
 Full step-by-step tutorial available on YouTube:
 
+Watch Video : https://youtu.be/zYMRdxmwr0Q
+
+![Watch the video](https://img.youtube.com/vi/zYMRdxmwr0Q/0.jpg)
+
 # Discord
 
 Join our Discord to ask questions: https://discord.gg/dfjMzNXB9n
